@@ -36,7 +36,7 @@ body {
 .about-me-profession {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 17px;
   font-weight: 700;
   color: black;
@@ -53,7 +53,7 @@ body {
 }
 
 .about-me-description {
-  width: 400px;
+  /*width: 400px;*/
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
